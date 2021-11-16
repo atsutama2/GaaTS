@@ -1,0 +1,2 @@
+- 高卒30歳が三ヶ月でAtCoder緑になれたので色変記事書く
+https://zenn.dev/hal_mat/articles/2684d9e5a6d13c
