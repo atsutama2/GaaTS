@@ -4,5 +4,4 @@
 [参考URL](https://qiita.com/sta/items/e85dc381774acc9ac3c2)
 
 引用
-> GaaTS とは？
 > GaaTS とは 「GitHub でテキストを管理しようぜ」 という考え> 方や取り組みのことです。
