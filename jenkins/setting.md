@@ -32,4 +32,5 @@
       - ($JENKINS_HOME/plugins) に格納
 
 - Xcode指定
-```DEVELOPER_DIR=/Applications/Xcode12.4.app/Contents/Developer xcodebuild \
+
+` DEVELOPER_DIR=/Applications/Xcode12.4.app/Contents/Developer xcodebuild \`
