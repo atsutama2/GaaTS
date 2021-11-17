@@ -42,9 +42,31 @@
 
 ***
 
+## 強調
+
+**強調**
+
 ## コード
 ` git fetch`
 ```
 public void Hoge(int a, int b) {
     return a + b;
 }
+```
+***
+
+## 表
+
+|  TH  |  TH  |
+| ---- | ---- |
+|  TD  |  TD  |
+|  TD  |  TD  |
+
+### 右寄せ・中央寄せ・左寄せ
+
+| TH 左寄せ | TH 中央寄せ | TH 右寄せ |
+| :--- | :---: | ---: |
+| TD | TD | TD |
+| TD | TD | TD |
+
+***
