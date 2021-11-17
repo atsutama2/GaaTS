@@ -30,3 +30,6 @@
   - 世界で闘うプログラミング力を鍛える本 ~コーディング面接189問とその解
   - [Gayle Laakmann McDowell](https://www.amazon.co.jp/dp/4839960100/)
   - [英文レジュメ](https://rfushimi.hatenablog.jp/entry/2019/03/26/233131)
+
+- ミクシィの21新卒技術研修の資料と動画を公開します！
+  - https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0
