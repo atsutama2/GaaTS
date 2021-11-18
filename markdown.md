@@ -70,3 +70,11 @@ public void Hoge(int a, int b) {
 | TD | TD | TD |
 
 ***
+
+## 色味
+
+<font color="Red">Red</font>
+
+<font color="Blue">Blue</font>
+
+***
