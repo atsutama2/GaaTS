@@ -33,3 +33,6 @@
 
 - ミクシィの21新卒技術研修の資料と動画を公開します！
   - https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0
+
+- https://qiita.com/yokra9/items/9b1445eb65ee0fe5c759
+- https://qiita.com/sowd/items/832594dd22d99aebc8a2
