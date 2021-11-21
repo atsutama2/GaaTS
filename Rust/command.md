@@ -1,0 +1,4 @@
+- コマンド
+  - `rustc`
+- version確認
+  - `rustc --version`
