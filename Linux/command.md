@@ -1,2 +1,6 @@
 - ディレクトリごとコピー
   - `cp -r debug1/ debug2/`
+- ディレクトリごと移動
+  - `mv hogehoge/ hagehage/`
+- ディレクトリごとコピー
+  - `cp -r hoge/ hage/`
