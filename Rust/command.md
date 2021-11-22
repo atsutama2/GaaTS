@@ -1,0 +1,6 @@
+- コマンド
+  - `rustc`
+- version確認
+  - `rustc --version`
+- プロジェクト作成
+  - `cargo new --bin hello_world`
