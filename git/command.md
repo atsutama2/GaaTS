@@ -4,7 +4,3 @@
   - `git reset --merge `
 - Remote チェックアウト
   - `git checkout -b hoge origin/hoge`
-
-
-
-
