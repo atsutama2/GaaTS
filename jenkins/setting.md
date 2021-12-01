@@ -22,6 +22,21 @@
   - リモート接続設定
   - 「共有」->リモートマネージメントON
   - Jenkins内部設定
+    - 設定→グローバルプロパティ→環境変数→
+      - KEYCHAIN_PW
+        - パスワード入れる
+      - LOGIN_KEYCHAIN_PATH
+        - $HOME/Library/Keychains/login.keychain-db
+      - NDK_PATH
+        - $HOME/Library/Android/sdk/android-ndk-r16b
+      - Path
+        - /usr/local/bin:$PATH
+      - SDK_PATH
+        - $HOME/Library/Android/sdk
+      - JDK_PATH
+        - /Library/Java/JavaVirtualMachines/openjdk-11.jdk/Contents/Home
+      - javaArgs
+        - -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djava.io.tmpdir=/Users/~~~~/jenkins_home/tmp -Xmx2048m
     - 内部認証(git sshキー設定)
     - Pulgin
       - build user vars

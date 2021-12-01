@@ -1,0 +1,47 @@
+### 2018 Unity まとめ
+- [Compression Method](https://tsubakit1.hateblo.jp/entry/2017/03/22/233000)
+  - アプリ本体のサイズが小さくなる
+  - apk、ipaの容量は変わらない可能性があるが、インストール後のサイズが小さくなる
+  - （サイズが小さくなる事によって）アプリの起動時間が早くなる
+- [Resources.Load](https://docs.unity3d.com/jp/current/ScriptReference/Resources.Load.html)
+  - Resourcesフォルダ以下のアセットは全てアプリ内に格納される
+  - <ProjectPath>/Assets/Hoge/Resources/と<ProjectPath>/Assets/Fuga/Resources/が存在した場合、両方のフォルダ内のアセットが対象になる。
+    - Resources.Load("hogehoge")
+    - アセットをプラットフォームに適したデータに変換
+    - ロードに必要なメタ情報の付与
+    - 圧縮
+    - 単一ファイルにまとめる
+    - サイズが大きくなるほどアプリのビルド時間が伸びる
+    - サイズが大きくなるほどアプリのサイズが大きくなる
+    - サイズが大きくなるほどアプリの起動時間が伸びる
+    - アプリ外部からの差し替えが不可能
+- [StreamingAssets](https://docs.unity3d.com/ja/2018.4/Manual/StreamingAssets.html)
+  - アセットをそのままアプリ内に格納する」ための仕組み
+  - 置したアセットは、Resourcesとは異なり、そのままの状態でアプリに格納される
+  - StreamingAssets以下のアセットは全てアプリに格納されてしまう
+  - アセットをそのままの状態（バイナリ）でアプリに格納することができる
+  - アプリに格納されるため、アプリの容量は増える
+  - 差し替えが不可能（StreamingAssetsは書き込み不可領域）
+  - Androidにおいてロード方法が特殊
+  - Assets/StreamingAssets/hoge/hoge.json
+  - iOS
+    - var request = UnityWebRequest.Get("hoge/master.json");
+  - Android
+    - var jsonText = File.ReadAllText("hoge/master.json");
+  - 起動時から必要な音声ファイル、動画データなどはここにおくのもよい
+- [AssetDatabase.LoadAssetAtPath](https://docs.unity3d.com/jp/current/ScriptReference/AssetDatabase.LoadAssetAtPath.html)
+  - プロジェクトフォルダ内のどこでも良いのでアセットを配置する
+  - AssetDatabase.LoadAssetAtPath(assetPath)でロードする
+  - 引数に渡す文字列はプロジェクトフォルダからの相対パス。
+  - using UnityEditor;が必要。
+  - UnityEditor上でしか動かない。
+  - エディタ拡張での利用
+  - エディタ上での確認用シーンなどでの利用
+- AssetBundle.LoadAsset
+  - アセットを格納したAssetBundleをビルドする
+  - ビルドしたAssetBundleをどこか（WebサーバーかStreamingAssets）に配置する
+  - 配置したAssetBundleをロードする
+  - assetBundle.LoadAsset(assetName)でAssetBundleからアセットをロードする
+
+- [今更誰も教えてくれない、Unityにおけるアセット読み込みについての基礎知識](https://qiita.com/k7a/items/df6dd8ea66cbc5a1e21d)
+-
