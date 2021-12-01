@@ -7,7 +7,7 @@
   - homebrew
   - Jenkins
     - brew install git
-    - brew install Jenkins
+    - brew install Jenkins-lts
   - 設定
     - PC起動時にJenkinsが起動するように設定
     - cp -p /usr/local/opt/jenkins/*.plist
