@@ -1,6 +1,9 @@
-- コマンド
-  - `rustc`
-- version確認
-  - `rustc --version`
-- プロジェクト作成
-  - `cargo new --bin hello_world`
+|  コマンド  |  詳細  |
+| ---- | ---- |
+| rustc --version | version確認 |
+| cargo new --bin hello_world | プロジェクト作成 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |

@@ -1,9 +1,12 @@
-- 新プロジェクト作成
-  - `dotnet new console -o "SampleConsole"`
-
-- 文字列取得
-  -  `Console.ReadLine();`
-
+|  コマンド  |  詳細  |
+| ---- | ---- |
+| dotnet new console -o "SampleConsole" | プロジェクト作成 |
+| Console.ReadLine(); | 文字列取得 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 ````
 using System;
 using System.IO;

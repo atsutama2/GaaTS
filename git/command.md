@@ -1,6 +1,11 @@
-# Git いつも使用する集
-
-- Mergeでぶつかった時にリセットする
-  - `git reset --merge `
-- Remote チェックアウト
-  - `git checkout -b hoge origin/hoge`
+|  コマンド  |  詳細  |
+| ---- | ---- |
+| git reset --merge | Mergeでぶつかった時にリセットする |
+| git checkout -b hoge origin/hoge | Remote チェックアウト |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |

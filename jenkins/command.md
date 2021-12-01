@@ -6,6 +6,15 @@
 |  /cancelQuietDown  |  「quietDown」をキャンセルします。  |
 |  /restart  |  Jenkins の再起動を実行します。  |
 |  /safeRestart  |  JenkinsをQuietモードにして,既存のビルドが完了するのを待ってから,Jenkinsを再起動する。  |
-|    |    |
-|    |    |
-|    |    |
+| ---- | ---- |
+|  brew install jenkins-lts  |  インストール  |
+|  brew services start jenkins-lts  |  始動  |
+|  brew services restart jenkins-lts  |  再起動  |
+| brew upgrade jenkins-lts | アップデート |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |

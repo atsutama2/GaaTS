@@ -1,6 +1,9 @@
-- ディレクトリごとコピー
-  - `cp -r debug1/ debug2/`
-- ディレクトリごと移動
-  - `mv hogehoge/ hagehage/`
-- ディレクトリごとコピー
-  - `cp -r hoge/ hage/`
+|  コマンド  |  詳細  |
+| ---- | ---- |
+| cp -r debug1/ debug2/ | ディレクトリごとコピー |
+| mv hogehoge/ hagehage/ | ディレクトリごと移動 |
+| cp -r hoge/ hage/ | ディレクトリごとコピー |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
