@@ -6,8 +6,8 @@
 | raeding | [Webを支える技術 -HTTP、URI、HTML、そしてREST](https://www.amazon.co.jp/Web%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-HTTP%E3%80%81URI%E3%80%81HTML%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6REST-WEB-PRESS-plus/dp/4774142042) |
 | raeding | [サーバ／インフラエンジニアの基本がこれ1冊でしっかり身につく本](https://www.amazon.co.jp/%E3%82%B5%E3%83%BC%E3%83%90%EF%BC%8F%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%81%8C%E3%81%93%E3%82%8C1%E5%86%8A%E3%81%A7%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%8F%E6%9C%AC-%E9%A6%AC%E5%A0%B4-%E4%BF%8A%E5%BD%B0-ebook/dp/B091K8GCTC) |
 | raeding | [イラスト図解式 この一冊で全部わかるサーバーの基本](https://www.amazon.co.jp/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%9B%B3%E8%A7%A3%E5%BC%8F-%E3%81%93%E3%81%AE%E4%B8%80%E5%86%8A%E3%81%A7%E5%85%A8%E9%83%A8%E3%82%8F%E3%81%8B%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AE%E5%9F%BA%E6%9C%AC-%E3%81%8D%E3%81%AF%E3%81%97-%E3%81%BE%E3%81%95%E3%81%B2%E3%82%8D-ebook/dp/B01DBQQ80A/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E3%82%B5%E3%83%BC%E3%83%90%E3%81%AE%E5%9F%BA%E6%9C%AC&qid=1638448756&s=digital-text&sr=1-1) |
-| ---- | アジャイル時代のオブジェクト脳のつくり方 Rubyで学ぶ究極の基礎講座 |
-| ---- | 新・標準プログラマーズライブラリ　なるほどなっとく　C#入門 |
+| raeding |  [アジャイル時代のオブジェクト脳のつくり方 Rubyで学ぶ究極の基礎講座](https://www.amazon.co.jp/dp/B0734GH91L/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)|
+| raeding | [新・標準プログラマーズライブラリ　なるほどなっとく　C#入門](https://www.amazon.co.jp/%E6%96%B0%E3%83%BB%E6%A8%99%E6%BA%96%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%82%BA%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA-%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E3%81%AA%E3%81%A3%E3%81%A8%E3%81%8F-C-%E5%85%A5%E9%96%80-%E5%87%BA%E4%BA%95-%E7%A7%80%E8%A1%8C-ebook/dp/B07PQDZ56Y/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E6%96%B0%E3%83%BB%E6%A8%99%E6%BA%96%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%82%BA%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA+%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E3%81%AA%E3%81%A3%E3%81%A8%E3%81%8F+C%23%E5%85%A5%E9%96%80&qid=1638769162&s=digital-text&sr=1-1) |
 | ---- | ---- |
 | ---- | ---- |
 | ---- | ---- |
