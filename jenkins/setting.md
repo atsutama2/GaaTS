@@ -1,4 +1,9 @@
 ## JenkinsPC Setting メモ
+- Mac をスリープさせないようにする
+  - Automator.appの作成
+  - nohup caffeinate -d
+
+
 - インストール
   - Chrome
   - Google日本語入力
