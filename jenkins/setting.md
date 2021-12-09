@@ -2,27 +2,37 @@
 - Mac をスリープさせないようにする
   - Automator.appの作成
   - nohup caffeinate -d
-
-
-- インストール
+  - https://qiita.com/atsutama/items/5e8590db5a2b4bff5cc0
+- 隠しファイル表示
+  - defaults write com.apple.finder AppleShowAllFiles -bool true
+  - killall Finder
+- インストール系
   - Chrome
   - Google日本語入力
   - UnityHub
+  - Xcode
+  - AndroidStudio
   - SourceTree
   - homebrew
+  - brew install git
+  - brew install ag
   - Jenkins
-    - brew install git
     - brew install Jenkins-lts
+    - brew services start jenkins-lts
   - 設定
     - PC起動時にJenkinsが起動するように設定
-    - cp -p /usr/local/opt/jenkins/*.plist
-    - ~/Library/LaunchAgentslaunchctl load
+    - /usr/local/opt/jenkins-lts/homebrew.mxcl.jenkins.plistをコピー
     - ~/Library/LaunchAgents/homebrew.mxcl.jenkins.plist
+    - https://www.padmacolors.org/entry/20201216/11269/
+    - https://qiita.com/im0039kp/items/2dec89d805c4383de2e0
+    - 内部コードは参照
   - 外部PCからの接続許可(下記を削除)
-```
-<string>--httpListenAddress=127.0.0.1</string>
-<string>--httpPort=8080</string>
-```
+  - <string>--httpListenAddress=0.0.0.0</string>
+  - FireVaultをOFF
+  - 画面共有の設定
+    - 共有→画面共有
+    - 該当のユーザーのアカウント設定(Alice-G-04)
+``
   - 再起動
   - リモート接続設定
   - 「共有」->リモートマネージメントON
@@ -44,13 +54,26 @@
         - -Dfile.encoding=UTF-8 -Dsun.jnu.encoding=UTF-8 -Djava.io.tmpdir=/Users/~~~~/jenkins_home/tmp -Xmx2048m
     - 内部認証(git sshキー設定)
     - Pulgin
+      - Disk Usage Plugin
       - build user vars
-      - https://plugins.jenkins.io/build-user-vars-plugin/
       - Parameterized Trigger
-      - https://plugins.jenkins.io/parameterized-trigger/
+      - Multiple SCMs plugin
+      - Slack Notification
+      - Role-based Authorization Strategy
+      - Config File Provider
+      - Rebuilder
       - 以前使用していたPluginがinstall出来ない場合は手動でinstall
       - ($JENKINS_HOME/plugins) に格納
+      - jenkins-buckup
+        - コード参照
+    - Xcode指定
+      - DEVELOPER_DIR=/Applications/Xcode12.4.app/Contents/Developer xcodebuild \`
+    - AndroidStudio
+      - SDKインストール
+      - NDKインストール
+    - Unityビルドでの開発元認証
+      - https://baba-s.hatenablog.com/entry/2020/05/12/130600
+    - cocoapod
+      - https://qiita.com/matsuyoro/items/c6b5ea7e0ba4b651530a
+      - https://qiita.com/noprops/items/f997a438fabb64c15f10
 
-- Xcode指定
-
-` DEVELOPER_DIR=/Applications/Xcode12.4.app/Contents/Developer xcodebuild \`
