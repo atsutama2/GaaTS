@@ -9,7 +9,8 @@
 | raeding | [実戦で役立つ C#プログラミングのイディオム/定石&パターン](https://www.amazon.co.jp/gp/product/B06WP7HJ27/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1) |
 | raeding | [基礎からしっかり学ぶC#の教科書　改訂新版](https://www.amazon.co.jp/gp/product/B084Q5GHCS/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1) |
 | 2021/12/17 | [新・標準プログラマーズライブラリ　なるほどなっとく　C#入門](https://www.amazon.co.jp/gp/product/B07PQDZ56Y/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1) |
-| ---- | ---- |
+| 2021/12/17 | [アジャイル時代のオブジェクト脳のつくり方 Rubyで学ぶ究極の基礎講座
+](https://www.amazon.co.jp/gp/aw/d/B0734GH91L/ref=ya_aw_dod_pi?ie=UTF8&psc=1) |
 | ---- | ---- |
 | ---- | ---- |
 | ---- | ---- |
