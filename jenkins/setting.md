@@ -65,6 +65,7 @@
       - 以前使用していたPluginがinstall出来ない場合は手動でinstall
       - ($JENKINS_HOME/plugins) に格納
       - jenkins-buckup
+      - Post build task
         - コード参照
     - Xcode指定
       - DEVELOPER_DIR=/Applications/Xcode12.4.app/Contents/Developer xcodebuild \`
