@@ -11,7 +11,7 @@
 | 2021/12/17 | [新・標準プログラマーズライブラリ　なるほどなっとく　C#入門](https://www.amazon.co.jp/gp/product/B07PQDZ56Y/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1) |
 | 2021/12/17 | [アジャイル時代のオブジェクト脳のつくり方 Rubyで学ぶ究極の基礎講座](https://www.amazon.co.jp/gp/aw/d/B0734GH91L/ref=ya_aw_dod_pi?ie=UTF8&psc=1) |
 | 2021/12/17 | [世界が変わるプログラム入門 ](https://www.amazon.co.jp/世界が変わるプログラム入門-ちくまプリマー新書-山本貴光-ebook/dp/B011HON70W/ref=mp_s_a_1_3?crid=1XB21AYS67HLM&keywords=世界が変わるプログラム入門&qid=1640001579&sprefix=世界が変わる%2Caps%2C265&sr=8-3) |
-| ---- | ---- |
+| reading | [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則](https://www.amazon.co.jp/dp/B071V7MY82?ref_=k4w_ss_dp_lp) |
 | ---- | ---- |
 | ---- | ---- |
 | ---- | ---- |
