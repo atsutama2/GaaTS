@@ -26,8 +26,10 @@
     - https://www.padmacolors.org/entry/20201216/11269/
     - https://qiita.com/im0039kp/items/2dec89d805c4383de2e0
     - 内部コードは参照
+    - launchctl load -w ~/Library/LaunchAgents/hogehoge.plist
+    - <string>-Xmx2048m</string> 追加
   - 外部PCからの接続許可(下記を削除)
-  - <string>--httpListenAddress=0.0.0.0</string>
+  - <string>--httpListenAddress=0.0.0.0</string> 削除
   - FireVaultをOFF
   - 画面共有の設定
     - 共有→画面共有
