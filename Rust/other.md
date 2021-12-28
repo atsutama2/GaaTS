@@ -1,0 +1,3 @@
+- 簡易オセロ
+  - https://www.otohitofuse.com/programming/rust_reversi1.html
+  - https://github.com/Otohito-Fuse/simple-reversi/tree/main/src
