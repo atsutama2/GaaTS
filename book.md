@@ -13,11 +13,11 @@
 | raeding | [基礎からしっかり学ぶC#の教科書　改訂新版](https://www.amazon.co.jp/gp/product/B084Q5GHCS/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1) |
 | reading | [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則](https://www.amazon.co.jp/dp/B071V7MY82?ref_=k4w_ss_dp_lp) |
 | raeding | [Webを支える技術 -HTTP、URI、HTML、そしてREST](https://www.amazon.co.jp/s?k=Web%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93+-HTTP%E3%80%81URI%E3%80%81HTML%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6REST&i=digital-text&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&ref=nb_sb_noss) |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
-| ---- | ---- |
+| raeding | [プログラミングC# 第8版](https://www.oreilly.co.jp/books/9784873119366/) |
+| raeding | [Googleのソフトウェアエンジニアリング](https://www.oreilly.co.jp/books/9784873119656/) |
+| raeding | [リーダブルコード](https://www.oreilly.co.jp/books/9784873115658/) |
+| raeding | [プログラムはなぜ動くのか](https://www.nikkeibp.co.jp/atclpubmkt/book/21/S00190/) |
+| raeding | [1日で読めてわかるTCP/IPのエッセンス](https://booklive.jp/product/index/title_id/340181/vol_no/001) |
 | ---- | ---- |
 | ---- | ---- |
 | ---- | ---- |
