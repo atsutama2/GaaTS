@@ -9,10 +9,10 @@
 | kubectl get services --sort-by=.metadata.name | 名前順にソートしたServiceのリストを表示します |
 | stern <Pod名> | アクセスログ確認表示 |
 | nc -vz IP address | 接続疎通確認 |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| stern app | アクセスログ |
+| kubectl get ing | ingress確認 |
+| kustomize build | kubectl delete -f - | Resources削除 |
+| kustomize build | kubectl apply -f - | Resources作成 |
 |  |  |
 |  |  |
 |  |  |
